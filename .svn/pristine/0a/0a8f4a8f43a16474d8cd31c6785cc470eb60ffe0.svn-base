@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: IHC EHR Rest Service
+Implementation-Version: 1.0
+Built-By: ak
+Implementation-Vendor-Id: com.ihc
+Build-Jdk: 1.8.0_261
+Implementation-URL: http://projects.spring.io/spring-boot/ihc-ehr-rest
+ /
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
